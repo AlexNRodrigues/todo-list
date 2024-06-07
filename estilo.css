@@ -77,6 +77,10 @@ li {
     color: #f4f4f4;
 }
 
+.botoes a.editar {
+    background-color: #2f6ea6;
+}
+
 .botoes a.finalizado {
     background-color: #28a745;
 }
